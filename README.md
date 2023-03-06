@@ -42,5 +42,3 @@
 [2. 얼굴 인식 프로젝트](https://github.com/Hyewon0920/open_cv/blob/main/_14.%20%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
 
 [3. 반자동 문서 스캐너 프로젝트](https://github.com/Hyewon0920/open_cv/blob/main/_10.%20%EB%B0%98%EC%9E%90%EB%8F%99%20%EB%AC%B8%EC%84%9C%20%EC%8A%A4%EC%BA%90%EB%84%88%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
-
-[4. 원하는 조건의 부동산 매물이 몇개 있는지 출력하는 클래스 만들기](https://github.com/Hyewon0920/python-basic/blob/main/python_basic/9.%20%EB%A7%A4%EB%AC%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
