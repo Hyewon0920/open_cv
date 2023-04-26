@@ -42,3 +42,6 @@
 [2. 얼굴 인식 프로젝트](https://github.com/Hyewon0920/open_cv/blob/main/_14.%20%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
 
 [3. 반자동 문서 스캐너 프로젝트](https://github.com/Hyewon0920/open_cv/blob/main/_10.%20%EB%B0%98%EC%9E%90%EB%8F%99%20%EB%AC%B8%EC%84%9C%20%EC%8A%A4%EC%BA%90%EB%84%88%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
+
+[4. 이미지 크롭 모듈 만들기 프로젝트]
+haarcascade.xml을 사용했으며, 경로에 한글이 있을 경우 경로 인식이 안되는 문제를 해결하기 위해 따로 mycv2라는 모듈을 같이 만들었습니다!
